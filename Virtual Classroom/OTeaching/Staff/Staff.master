@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Staff.master.cs" Inherits="Staff_Staff" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    <link href="staff1.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height: 35px;
+            border: solid 1px #369;
+            font-size: medium;
+            font-weight: bold;
+            background-color: transparent;
+            transition: background 1s ease;
+            cursor: pointer;
+            border-radius: 2px;
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-top: 0px;
+        }
+    </style>
+    </head>
+<body>
+    <form id="form1" runat="server">
+   <div id="header">
+    
+       <asp:Image ID="Image5" runat="server" Height="83px" ImageUrl="~/vs.jpg" />
+    
+    </div>
+     <div id="mainn">
+         <div id="left">
+     <div id="leftmenu">
+         <table class="tbl">
+             <tr>
+                 <td>
+                     &nbsp;</td>
+             </tr>
+             <tr>
+                 <td style="text-align: center">
+                     <asp:Image ID="Image4" runat="server" Height="115px" Width="104px" />
+                 </td>
+             </tr>
+             <tr>
+                 <td style="text-align: center">
+                     <asp:Label ID="Label1" runat="server" Font-Bold="True" ForeColor="#369"></asp:Label>
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                     &nbsp;</td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button1" runat="server" CssClass="btnmenu" Text="Mark Attendance" 
+                        PostBackUrl="~/Staff/Default2.aspx" />
+                 </td>
+             </tr>
+                 <tr>
+                 <td>
+                    <asp:Button ID="Button" runat="server" CssClass="btnmenu" Text="Show Attendance" 
+                        PostBackUrl="~/Staff/Default3.aspx" />
+                 </td>
+             </tr>
+            
+             <tr>
+                 <td>
+                    <asp:Button ID="Button12" runat="server" CssClass="btnmenu" Text="Upload File" 
+                        PostBackUrl="~/Staff/Upload.aspx" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button8" runat="server" CssClass="btnmenu" Text="MESSAGE" 
+                        PostBackUrl="~/Staff/Message.aspx" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button10" runat="server" CssClass="btnmenu" Text="PASSWORD" 
+                        PostBackUrl="~/Staff/Password.aspx" onclick="Button10_Click" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button11" runat="server" CssClass="auto-style1" Text="LOGOUT" 
+                        PostBackUrl="~/Default.aspx" onclick="Button10_Click" />
+                 </td>
+             </tr>
+         </table>
+         </div>
+     </div>
+     <div id="right">  <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>    
+         </div>
+    </div> <div id="footer">All Copy Rights 2021.</div>
+    </form>
+</body>
+</html>

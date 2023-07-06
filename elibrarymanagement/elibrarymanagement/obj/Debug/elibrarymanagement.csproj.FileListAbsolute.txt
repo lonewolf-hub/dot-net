@@ -1,0 +1,236 @@
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.dll.config
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.pdb
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.exe
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.exe.config
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.rsp
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.exe
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.exe.config
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.rsp
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.AppContext.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Console.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Net.Http.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.exe
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.exe.config
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.rsp
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.AssemblyReference.cache
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.CoreCompileInputs.cache
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.CopyComplete
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.dll
+C:\Users\jaiss\source\repos\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.pdb
+F:\documents\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.dll.config
+F:\documents\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.pdb
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.exe
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.exe.config
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.rsp
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.exe
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.exe.config
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.rsp
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Managed.Core.targets
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.AppContext.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Collections.Immutable.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Console.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Globalization.Calendars.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.Compression.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.FileSystem.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Net.Http.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Net.Sockets.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Reflection.Metadata.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.ValueTuple.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XmlDocument.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XPath.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.exe
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.exe.config
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.rsp
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\VBCSCompiler.exe
+F:\documents\elibrarymanagement\elibrarymanagement\bin\roslyn\VBCSCompiler.exe.config
+F:\documents\elibrarymanagement\elibrarymanagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\documents\elibrarymanagement\elibrarymanagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\documents\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.AssemblyReference.cache
+F:\documents\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.CoreCompileInputs.cache
+F:\documents\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.CopyComplete
+F:\documents\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.dll
+F:\documents\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.pdb
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.dll.config
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.pdb
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.exe
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.exe.config
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.rsp
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.exe
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.exe.config
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.rsp
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.AppContext.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Console.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Net.Http.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.exe
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.exe.config
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.rsp
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.AssemblyReference.cache
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.CoreCompileInputs.cache
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.CopyComplete
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.dll
+C:\Users\jaiss\OneDrive\Documents\projects\dot net\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.pdb
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.dll.config
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\elibrarymanagement.pdb
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.exe
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.exe.config
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csc.rsp
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.exe
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.exe.config
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\csi.rsp
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Managed.Core.targets
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.AppContext.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Collections.Immutable.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Console.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Globalization.Calendars.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.Compression.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.FileSystem.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Net.Http.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Net.Sockets.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Reflection.Metadata.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.ValueTuple.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XmlDocument.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XPath.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.exe
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.exe.config
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\vbc.rsp
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\VBCSCompiler.exe
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\roslyn\VBCSCompiler.exe.config
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.AssemblyReference.cache
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.CoreCompileInputs.cache
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.csproj.CopyComplete
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.dll
+F:\projects\dot net\elibrarymanagement\elibrarymanagement\obj\Debug\elibrarymanagement.pdb

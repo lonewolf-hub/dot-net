@@ -1,0 +1,21 @@
+F:\asp.net\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll.config
+F:\asp.net\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll
+F:\asp.net\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.pdb
+F:\asp.net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.AssemblyReference.cache
+F:\asp.net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.CoreCompileInputs.cache
+F:\asp.net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.dll
+F:\asp.net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.pdb
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll.config
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.pdb
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csprojAssemblyReference.cache
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.CoreCompileInputs.cache
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.dll
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.pdb
+F:\projects\dot net\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll.config
+F:\projects\dot net\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll
+F:\projects\dot net\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.pdb
+F:\projects\dot net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.AssemblyReference.cache
+F:\projects\dot net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.CoreCompileInputs.cache
+F:\projects\dot net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.dll
+F:\projects\dot net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.pdb

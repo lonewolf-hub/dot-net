@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="aDMIN.master.cs" Inherits="Admin_aDMIN" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Admin1.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        
+        
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="header">
+
+        <asp:Image ID="Image1" runat="server" ImageUrl="~/vs.jpg" />
+    </div>
+    <div id="menu">
+        <table class="style1">
+            <tr>
+                <td>
+                    <asp:Button ID="Button1" runat="server" CssClass="mbtn" Text="ADD Branch" 
+                        PostBackUrl="~/Admin/AddCategory.aspx" CausesValidation="false" 
+                        onclick="Button1_Click" />
+                </td>
+                <td>
+                    <asp:Button ID="Button3" runat="server" CssClass="mbtn" Text="ADD Staff" CausesValidation="false" 
+                        PostBackUrl="~/Admin/Satff.aspx" onclick="Button3_Click" />
+                </td>
+                <td>
+                    <asp:Button ID="Button2" runat="server" CssClass="mbtn" Text="Staff Report" CausesValidation="false" 
+                        PostBackUrl="~/Admin/StaffReport.aspx" />
+                </td>
+                <td>
+                    <asp:Button ID="Button4" runat="server" CssClass="mbtn" Text="User Report" 
+                        CausesValidation="false" PostBackUrl="~/Admin/UserReport.aspx" />
+                </td>
+                <td>
+                    <asp:Button ID="Button5" runat="server" CssClass="mbtn" Text="Upload Report" 
+                        CausesValidation="false" PostBackUrl="~/Admin/Upload.aspx"  />
+                </td>
+                <td class="style2">
+                    <asp:Button ID="Button6" runat="server" CssClass="mbtn" Text="FeedBack" 
+                        CausesValidation="false" onclick="Button6_Click" 
+                        PostBackUrl="~/Admin/Feedback.aspx" />
+                </td>
+                <td class="style2">
+                    <asp:Button ID="Button7" runat="server" CssClass="mbtn" Text="LogOut" 
+                        CausesValidation="false" onclick="Button6_Click" 
+                        PostBackUrl="~/Default.aspx" Width="124px" />
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id="cnt">
+    
+      <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

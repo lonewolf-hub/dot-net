@@ -1,0 +1,219 @@
+﻿body 
+{
+    background:#ecf5ff;
+    font-family:Arial, Helvetica, Sans-Serif;
+}
+
+
+#aheader
+{
+    height:120px;
+    width:900px;
+    border:solid 1px #ccc;
+    margin-bottom:10px;
+    font-weight: 700;
+    text-align: center;
+    font-size: xx-large;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+    
+    
+    #alogin
+    {
+        height:250px;
+    width:300px;
+    border:solid 1px #ccc;
+    margin:0 auto; 
+        border-top: solid 15px #6699ff;
+        background:#fff;
+        margin-top:100px;
+        }
+        
+    .atitle
+    {
+        color:#6699ff;
+        font-size:22px;
+        text-align:center;
+        font-weight:bold;
+        font-size:medium;
+        }
+        
+    .ltxt
+    {
+        height:30px;
+        width:200px;
+        padding-left:8px;
+        border:solid 1px #ccc;
+        margin-top:3px;
+        border-radius:4px;
+        }
+        
+        .lbtn
+        { height:35px;
+        width:200px;
+        padding-left:8px;
+        border:solid 1px #ccc; background:#2D71FF;
+       
+        margin-top:3px;
+        color:#fff;
+        border-radius:4px;
+        transition: background 1s ease;
+        }
+        
+         .lbtn:hover
+        { 
+            cursor:pointer;
+            height:35px;
+        width:200px;
+        padding-left:8px;
+        border:solid 1px #ccc;
+       background:#6699ff;
+        margin-top:3px;
+        color:#fff;
+        border-radius:4px;
+        
+        }
+        
+  #main
+  {
+      width:900px;
+      height:500px;
+      border:solid 0px red;
+      margin:0 auto;
+      
+      }
+      
+      #menu
+      {
+          width:230px;
+          height:500px;
+          border:solid 0px green;
+          float:left;
+          
+          
+          }
+          
+           #cnt
+      {
+          width:665px;
+          height:500px;
+          border:solid 0px green;
+          float:right;
+          
+          
+          }
+          
+           .btnmenu
+        { height:35px;
+        width:225px;
+        padding-left:8px;
+        border:solid 1px #ccc;
+         background:#2D71FF;
+        margin-top:1px;
+        font-weight:bold;
+        font-size:medium;
+        color:#fff;
+      
+        transition: background 1s ease;
+        }
+        
+         .btnmenu:hover
+        { 
+            cursor:pointer;
+            height:35px;
+        width:225px;
+        padding-left:8px;
+        border:solid 1px #ccc;
+      
+         background:#6699ff;
+        margin-top:1px;
+        color:#fff;
+      
+        
+        }
+        
+        .tbl
+        {
+            width:100%;
+            border:solid 1px #6699ff;
+            
+            
+            }
+            
+            .tblhead
+            {
+                height:35px;
+                font-size:medium;
+                font-weight:bold;
+                color:#fff;
+                 background:#2D71FF;
+                text-align:center;
+                
+                }
+                
+                
+   .txt
+   {
+       width:160px;
+       height:22px;
+       border:solid 1px #ccc;
+       padding-left:5px;
+       
+       }
+       
+  .txt:focus
+  {
+       width:160px;
+       height:22px;
+       border:solid 1px #2D71FF;
+       padding-left:5px;
+      }
+      
+      
+           .btn
+        { height:30px;
+        width:100px;
+        padding-left:8px;
+        border:solid 1px #ccc;
+        background:#6699ff;
+        margin-top:5px;
+        font-weight:bold;
+        font-size:14px;
+        color:#fff;
+        border-radius:4px;
+        transition: background 1s ease;
+        }
+        
+         .btn:hover
+        { 
+            cursor:pointer;
+            height:30px;
+        width:100px;
+        padding-left:8px;
+        border:solid 1px #ccc;
+        background:#2D71FF;
+        margin-top:5px;
+        color:#fff;
+        border-radius:4px;
+        
+        }
+        
+        .lbl
+        {
+            color:#004AE6;
+            text-align:right;
+            
+            }
+              #footer
+{
+    width:900px;
+    height:40px;
+    border:solid 1px #ccc;
+    margin-top:5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}

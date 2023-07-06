@@ -1,0 +1,186 @@
+﻿body 
+{
+     background-image: url("bggg.jpg");
+    
+}
+
+#main
+{ width:1000px;
+    height:600px;
+    border:solid 5px #ccc;
+    margin:0 auto;
+    background:#fff;
+    
+    }
+
+#header
+{
+    width:1000px;
+    height:120px;
+    border:solid 1px #ccc;
+    margin:0 auto;
+    }
+    
+    #menu
+{
+    width:1000px;
+    height:40px;
+    border:solid 0px #ccc;
+    margin:0 auto;
+    margin-top:0px;
+    }
+    
+    #mainn
+{ width:1000px;
+    height:575px;
+    border:solid 1px #ccc;
+    margin:0 auto;
+     background:#FDFDFD;
+       margin-top:2px;
+    }
+    
+       #left
+{ width:325px;
+    height:575px;
+    border:solid 0px #ccc;
+     
+     background:#FDFDFD;
+       float:left;
+    }
+    
+    #studentlogin
+    {
+        width:300px;
+        height:250px;
+        border:solid 1px #339966;
+        margin:0 auto;
+        margin-top:10px;
+         border-top:solid 8px #339966;
+        }
+     #stafflogin
+    {
+        width:300px;
+        height:250px;
+        border:solid 1px #339966;
+        margin:0 auto;
+        margin-top:25px;
+         border-top:solid 8px #339966;
+        }
+        .logintitle
+        {color:#339966;
+         font-size:medium;font-weight:bold;
+         text-align:center;
+         height:40px;
+         font-family:Georgia;
+            }
+       #right
+{ width:670px;
+    height:555px;
+    border:solid 0px red;
+    padding-top:10px;
+    padding-right:5px;
+     
+       
+       float:right;
+    }
+    
+        #footer
+{
+    width:1000px;
+    height:40px;
+    border:solid 1px #ccc;
+    margin-top:5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+    
+    .btnmenu
+    {
+        width:163px;
+        height:35px;
+        margin:0px;
+        border:solid 1px #339966;
+        font-size:medium;
+        font-weight:bold;
+        background-color:transparent;
+        transition: background 1s ease;
+        cursor:pointer;
+        border-radius:2px;
+        margin-left:0px;
+        }
+        
+      .btnmenu:hover
+    {
+        width:163px;
+        height:35px;
+        margin:0px;
+        border:solid 1px #339966;
+        color:#fff;
+         background-color:#339966;
+        }
+        
+  .lbl
+  {
+      
+      text-align:right;
+      color:#339966;
+      }
+      
+  .txt
+  {border:solid 1px #339966;
+   width:140px;
+height:20px;
+padding-left:3px;
+border-radius:3px;
+      
+      }
+      
+  .btn
+  {
+      width:85px;
+      height:28px;
+      color:#fff;  border:solid 2px #339966;
+      background:#339966;
+       transition: background .7s ease;
+       border-radius:3px;
+       cursor:pointer;
+      }
+      .btn:hover
+  {
+      width:85px;
+      height:28px;
+      color:#339966;
+      background:#fff;
+      border:solid 2px #339966;
+      }
+      
+  .tbl
+  {
+      width:100%;
+      border:solid 1px #339966;
+      
+      }
+      
+      .tblhead
+      {
+          height:40px;
+          color:#fff;
+          text-align:left;
+          font-size:20px;
+          font-weight:bold;
+          background:#339966;
+          padding-left:10px;
+          
+          }
+.gv
+{
+    height:35px;
+    text-align:center;
+    vertical-align:middle;
+    font-size:16px;
+    font-weight:bold;
+    font-family:Georgia;
+    
+    }

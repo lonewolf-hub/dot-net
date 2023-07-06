@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="head">
+    
+        <asp:Image ID="Image1" runat="server" ImageUrl="~/img/dlibrary500.png" 
+            Width="500px" />
+    
+    </div><div id="main"><div id="menu">
+        <table style="width:100%; border-right-style: solid; border-right-width: thin; border-right-color: #33CC33;">
+            <tr>
+                <td class="tblhead">
+                    welcome
+                    </td>
+            </tr>
+            <tr>
+                <td style="text-align: center">
+                    <asp:Image ID="Image2" runat="server" Height="116px" Width="117px" />
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center">
+                    <asp:Label ID="lblname" runat="server" Font-Bold="True" ForeColor="Red"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:Button ID="Button11" runat="server" CssClass="btnmenu" Text="MY ACCOUNT" 
+                        PostBackUrl="~/Student/MyAccount.aspx" CausesValidation="False" 
+                        onclick="Button11_Click" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:Button ID="Button1" runat="server" CssClass="btnmenu" Text="MY Report" 
+                        PostBackUrl="~/Student/MyBook.aspx" CausesValidation="False" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:Button ID="Button2" runat="server" CssClass="btnmenu" Text="PENALTY Report" 
+                        CausesValidation="False" PostBackUrl="~/Student/MyPenalty.aspx" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:Button ID="Button12" runat="server" CssClass="btnmenu" Text="BOOK Report" 
+                        CausesValidation="False" PostBackUrl="~/Student/bookreport.aspx" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:Button ID="Button4" runat="server" CssClass="btnmenu" Text="LOGOUT" 
+                        CausesValidation="False" onclick="Button4_Click" />
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center">
+                    <asp:Image ID="Image3" runat="server" Height="139px" ImageUrl="~/img/lib.jpg" 
+                        Width="142px" />
+                </td>
+            </tr>
+            </table>
+        </div><div id="detail">  <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder></div></div>
+     
+   
+    </form>
+</body>
+</html>

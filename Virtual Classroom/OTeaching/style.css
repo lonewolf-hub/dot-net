@@ -1,0 +1,168 @@
+﻿body {
+}
+
+
+#top
+{
+    width:1000px;
+    height:120px;
+    border:solid 1px #369;
+    margin:0 auto;
+    margin-bottom:5px;
+    
+    }
+    
+    #menu
+    { width:1000px;
+    height:40px;
+    border:solid 0px red;
+    margin:0 auto; margin-bottom:5px;
+        
+        }
+        
+        #main
+        { width:1000px;
+    height:435px;
+    border:solid 1px #369;
+    margin:0 auto;
+    margin-bottom:5px;
+            
+            }
+            
+            .log
+            {
+                font-family:Arial Rounded MT Bold;
+                font-size:26px;
+                font-weight:bold;
+                color:#369;
+                }
+            
+              #logoo
+        { width:1000px;
+    height:45px;
+    border:solid 1px #369;
+    margin:0 auto;
+    margin-bottom:5px;
+             margin-top:5px; 
+            }
+                        
+            #footer
+        { width:1000px;
+    height:30px;
+    border:solid 1px #369;
+    margin:0 auto;
+  background:#3366CC;
+            
+            }
+            
+            
+            
+      .smenu
+      {
+          width:137px;
+          text-align:center;
+          font-weight:bold;
+          color:#fff;
+          background:#369;
+          height:30px;
+          padding-top:10px;
+          border:solid 2px #369;
+          margin-left:1px;
+          border-radius:10px;
+          }
+          
+          .smenu:hover
+      {
+          width:137px;
+          text-align:center;
+          font-weight:bold;
+          color:#369;
+          background:#fff;
+          height:30px;
+          padding-top:10px;    border:solid 2px #369;
+          
+          }
+          
+          #left
+          {
+              width:290px;
+              height:400px;
+              border:solid 0px green;
+              float:left;
+              }
+              
+              #right
+              {
+                   width:700px;
+              height:400px;
+              border:solid 0px green;
+                  float:right;
+                  }
+               
+               #stulogin
+               { width:290px;
+              height:195px;
+              border:solid 0px green;
+       border-top:solid 5px #369;
+        margin-top:10px;  
+                   
+                   }   
+                  
+                    #stafflogin
+               { width:290px;
+              height:195px;
+              border:solid 0px green;
+       border-top:solid 5px #369;
+       
+                 margin-top:15px;  
+                   }   
+                   
+                   
+                   .tbl
+                   {
+                       width:100%;
+                       border:solid 1px #369;
+                       box-shadow:4px 3px 4px #369;
+    
+}
+                       
+                       .tblhead
+                       {
+                           height:35px;
+                           background:#369;
+                           color:#fff;
+                           text-align:center;
+                           font-size:medium;
+                           font-weight:bold;
+                           }
+                       
+                       .txt
+                       {
+                           width:120px;
+                           border:solid 1px #369;
+                           padding-left:3px;
+                           
+                           }
+                           
+                           .btn
+                           {
+                               background:#369;
+                               border:solid 1px #369;
+                               color:#fff;
+                               font-weight:bold;
+                               cursor:pointer;
+                               }
+                               
+                                .btn:hover
+                           {
+                               background:#fff;
+                               border:solid 1px #369;
+                               color:#369;
+                               font-weight:bold;
+                               }
+                               
+                               .lbl
+                               {
+                                   text-align:right;
+                                   color:#369;
+                                   }

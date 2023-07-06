@@ -1,0 +1,147 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Staff.master.cs" Inherits="Staff_Staff" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    <link href="staff.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+        .style2
+        {
+            width: 432px;
+        }
+        .style3
+        {
+            width: 265px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+   <div id="header">
+    
+        <table class="style1">
+            <tr>
+                <td class="style2">
+    
+        <asp:Image ID="Image3" runat="server" ImageUrl="~/Staff/stafflogo.png" 
+            Height="80px" />
+    
+                </td>
+                <td class="style3">
+                    &nbsp;</td>
+                <td>
+&nbsp;&nbsp;
+                    <asp:LinkButton ID="lnkmsg" runat="server" Font-Bold="True" 
+                        Font-Underline="False" ForeColor="Red" Visible="False">(0)</asp:LinkButton>
+                    <asp:Image ID="Image6" runat="server" ImageUrl="~/Staff/msg.png" 
+                        Visible="False" />
+                </td>
+                <td width="90">
+                    <asp:LinkButton ID="LinkButton1" runat="server" ForeColor="Red" 
+                        PostBackUrl="~/Home.aspx">LogOut</asp:LinkButton>
+                </td>
+            </tr>
+        </table>
+    
+    </div>
+     <div id="mainn">
+         <div id="left">
+     <div id="leftmenu">
+         <table class="tbl">
+             <tr>
+                 <td>
+                     &nbsp;</td>
+             </tr>
+             <tr>
+                 <td style="text-align: center">
+                     <asp:Image ID="Image4" runat="server" Height="115px" Width="104px" />
+                 </td>
+             </tr>
+             <tr>
+                 <td style="text-align: center">
+                     <asp:Label ID="Label1" runat="server" Font-Bold="True" ForeColor="Red"></asp:Label>
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                     &nbsp;</td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button1" runat="server" CssClass="btnmenu" Text="Home" 
+                        PostBackUrl="~/Staff/Default.aspx" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button4" runat="server" CssClass="btnmenu" Text="ADD STUDENT" 
+                        PostBackUrl="~/Staff/AddStudent.aspx" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button3" runat="server" CssClass="btnmenu" Text="STUDENT REPORT" 
+                        PostBackUrl="~/Staff/StudentReport.aspx" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button2" runat="server" CssClass="btnmenu" Text="ATTENDANCE" 
+                         PostBackUrl="~/Staff/Att.aspx" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button5" runat="server" CssClass="btnmenu" Text="ATTENDANCE REPORT" 
+                        PostBackUrl="~/Staff/AttReport.aspx" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button6" runat="server" CssClass="btnmenu" Text="ADVANCE REPORTS" 
+                        PostBackUrl="~/Staff/AdvancceReport.aspx" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button7" runat="server" CssClass="btnmenu" Text="ADVANCE ATT REPORTS" 
+                        PostBackUrl="~/Staff/AdvanceAttReport.aspx" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button8" runat="server" CssClass="btnmenu" Text="COMPLAIN" 
+                        PostBackUrl="~/Staff/Complain.aspx" />
+                 </td>
+             </tr>
+             <tr>
+                 <td>
+                    <asp:Button ID="Button9" runat="server" CssClass="btnmenu" Text="LEAVE" 
+                        PostBackUrl="~/Staff/Leave.aspx" />
+                 </td>
+             </tr><tr>
+                 <td>
+                    <asp:Button ID="Button10" runat="server" CssClass="btnmenu" Text="PASSWORD" 
+                        PostBackUrl="~/Staff/Password.aspx" />
+                 </td>
+             </tr>
+         </table>
+         </div>
+     </div>
+     <div id="right">  <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>    
+         </div>
+    </div> <div id="footer">© 2017 Student Attandance System. All Rights Reserved.</div>
+    </form>
+</body>
+</html>
